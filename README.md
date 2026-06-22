@@ -2,7 +2,7 @@
 
 </div>
 
-# UniHub 2.0 🎓
+# UniHub 🎓
 
 UniHub is a smart college productivity platform designed to help students manage their academic life in one place.  
 It combines storage, timetable management, reminders, results tracking, and an AI-powered academic assistant using Google Gemini.
